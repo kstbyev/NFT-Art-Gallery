@@ -57,7 +57,7 @@ Open Xcode
 Select an iPhone simulator
 Press Run ▶️
 📁 Project Structure
-NFT Art Gallery/
+```NFT Art Gallery/
 ├── App/
 │   └── NFT_Art_GalleryApp.swift
 ├── Models/
@@ -69,27 +69,11 @@ NFT Art Gallery/
 │   └── ProfileView.swift
 └── Resources/
     └── Assets.xcassets
-
- Contributing
-
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+```
 
 👨‍💻 Author
 
 Madi Sharipov
-
-🙏 Acknowledgments
-
-Design inspiration from OpenSea
-Icons from SF Symbols
-Sample NFT artwork from various artists (credited in app)
 
 
 
