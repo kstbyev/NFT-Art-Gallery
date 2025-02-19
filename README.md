@@ -13,7 +13,7 @@ A modern iOS application for discovering, creating, and collecting NFTs. Built w
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/eb76d930-913e-40ba-8418-a574af8b6069)" width="200" alt="Home Screen">
+  <img src="https://github.com/user-attachments/assets/eb76d930-913e-40ba-8418-a574af8b6069" width="200" alt="Home Screen">
   <img src="Documentation/screenshot2.png" width="200" alt="Create NFT">
   <img src="Documentation/screenshot3.png" width="200" alt="Profile">
 </p>
