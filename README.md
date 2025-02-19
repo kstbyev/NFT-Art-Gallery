@@ -21,7 +21,7 @@ A modern iOS application for discovering, creating, and collecting NFTs. Built w
 ## 🎥 Demo
 
 <p align="center">
-  <img src="Documentation/demo.gif" width="250" alt="App Demo">
+  <img src="https://drive.google.com/file/d/13Sa19MGzR9yk1av0PwKB3kNZM41j2zpP/view?usp=sharing" width="250" alt="App Demo">
 </p>
 
 ## 🛠 Technical Features
